@@ -1,0 +1,2 @@
+The GIMP source code is available from the GIMP Portable homepage:
+http://portableapps.com/apps/graphics_pictures/gimp_portable

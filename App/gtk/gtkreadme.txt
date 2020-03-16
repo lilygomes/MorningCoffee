@@ -1,0 +1,1 @@
+GIMP Portable can use a seperate GTK in this directory.  It is combined by default with GIMP's binaries as this is the way the GIMP development team now prefers to distribute and support GIMP.
