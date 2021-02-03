@@ -54,7 +54,7 @@ public class About extends JFrame {
 		lblBeta.setBounds(12, 59, 94, 27);
 		contentPane.add(lblBeta);
 		
-		Label label = new Label("Developed by Frank Gomes for iD Tech");
+		Label label = new Label("Developed by Lily Gomes for iD Tech");
 		label.setBounds(12, 92, 247, 24);
 		contentPane.add(label);
 		
